@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=spranab&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=spranab&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -99,4 +99,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
-
