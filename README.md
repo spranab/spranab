@@ -75,10 +75,6 @@
   <img src="https://streak-stats.demolab.com/?user=spranab&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spranab&theme=algolia&no-frame=true&column=6" /></a>
-</p>
-
 ---
 
 ### Activity
