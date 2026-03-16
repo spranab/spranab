@@ -43,13 +43,11 @@
 
 | Project | Description | Score |
 |---------|-------------|-------|
-| [**IdeaCred**](https://ideacred.com) | Platform that evaluates and scores builders on real code quality | [![](https://ideacred.com/api/badge/spranab)](https://ideacred.com/profile/spranab) |
 | [**brainstorm-mcp**](https://github.com/spranab/brainstorm-mcp) | Multi-round AI debate server — GPT, DeepSeek, Groq, Ollama | [![](https://ideacred.com/api/badge/spranab/brainstorm-mcp)](https://ideacred.com/profile/spranab) |
 | [**saga-mcp**](https://github.com/spranab/saga-mcp) | Jira-like project tracker MCP server — 22 tools, SQLite-backed | [![](https://ideacred.com/api/badge/spranab/saga-mcp)](https://ideacred.com/profile/spranab) |
 | [**contextcache**](https://github.com/spranab/contextcache) | Persistent KV cache with content-hash addressing — 6.9x TTFT speedup | [![](https://ideacred.com/api/badge/spranab/contextcache)](https://ideacred.com/profile/spranab) |
 | [**clawbrain**](https://github.com/clawcolab/clawbrain) | AI memory system with personality traits and mood detection | [![](https://ideacred.com/api/badge/clawcolab/clawbrain)](https://ideacred.com/profile/spranab) |
 | [**toolformermicro**](https://github.com/spranab/toolformermicro) | Tool schema compression via gated cross-attention (~428M params) | |
-| [**yantrik-website**](https://github.com/spranab/yantrik-website) | Rust-based cognitive memory engine — 5 unified index types | |
 
 ---
 
