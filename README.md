@@ -43,6 +43,9 @@
 
 | Project | Description | Score |
 |---------|-------------|-------|
+| [**YantrikDB**](https://github.com/yantrikos/yantrikdb-server) | Cognitive memory engine in Rust — persistent AI memory for indefinitely long agent sessions | [![](https://ideacred.com/api/badge/yantrikos/yantrikdb-server)](https://ideacred.com/profile/spranab) |
+| [**yantrikdb-mcp**](https://github.com/yantrikos/yantrikdb-mcp) | Drop-in MCP memory for Claude, Cursor & any MCP agent — recall on demand, lean context | [![](https://ideacred.com/api/badge/yantrikos/yantrikdb-mcp)](https://ideacred.com/profile/spranab) |
+| [**llm-fleet-console**](https://github.com/spranab/llm-fleet-console) | Single-file dashboard for a fleet of llama.cpp backends — live GPU + token metrics, VRAM calculator | |
 | [**brainstorm-mcp**](https://github.com/spranab/brainstorm-mcp) | Multi-round AI debate server — GPT, DeepSeek, Groq, Ollama | [![](https://ideacred.com/api/badge/spranab/brainstorm-mcp)](https://ideacred.com/profile/spranab) |
 | [**saga-mcp**](https://github.com/spranab/saga-mcp) | Jira-like project tracker MCP server — 22 tools, SQLite-backed | [![](https://ideacred.com/api/badge/spranab/saga-mcp)](https://ideacred.com/profile/spranab) |
 | [**contextcache**](https://github.com/spranab/contextcache) | Persistent KV cache with content-hash addressing — 6.9x TTFT speedup | [![](https://ideacred.com/api/badge/spranab/contextcache)](https://ideacred.com/profile/spranab) |
@@ -86,7 +89,7 @@
 <p align="center">
   <a href="https://ideacred.com/profile/spranab"><b>IdeaCred</b></a> ·
   <a href="https://pranab.co.in"><b>pranab.co.in</b></a> ·
-  <a href="https://linkedin.com/in/pranab-sarkar-b0511160"><b>LinkedIn</b></a> ·
+  <a href="https://linkedin.com/in/sarkarpranab"><b>LinkedIn</b></a> ·
   <a href="https://orcid.org/0009-0009-8683-1481"><b>ORCID</b></a>
 </p>
 
